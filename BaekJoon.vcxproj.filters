@@ -69,9 +69,6 @@
     <ClCompile Include="2174.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2206 failed.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="2210.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -207,9 +204,6 @@
     <ClCompile Include="14889.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="15649 -ing.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="15649.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -276,7 +270,28 @@
     <ClCompile Include="17135 fail.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="14890.cpp">
+    <ClCompile Include="14890 -ing.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hashTable.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2206.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3197.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2133.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SCPC_1차_2번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SCPC_1차_3번-fail.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17281.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
